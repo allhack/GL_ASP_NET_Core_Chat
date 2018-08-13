@@ -1,0 +1,11 @@
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\bin\Debug\netcoreapp2.0\SimpleChatApp.deps.json
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\bin\Debug\netcoreapp2.0\SimpleChatApp.runtimeconfig.json
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\bin\Debug\netcoreapp2.0\SimpleChatApp.runtimeconfig.dev.json
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\bin\Debug\netcoreapp2.0\SimpleChatApp.dll
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\bin\Debug\netcoreapp2.0\SimpleChatApp.pdb
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.csprojAssemblyReference.cache
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.csproj.CoreCompileInputs.cache
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.AssemblyInfoInputs.cache
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.AssemblyInfo.cs
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.dll
+C:\Users\belikov.i\source\repos\SimpleChatApp\SimpleChatApp\obj\Debug\netcoreapp2.0\SimpleChatApp.pdb
